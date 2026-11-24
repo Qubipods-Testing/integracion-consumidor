@@ -1,0 +1,18 @@
+{
+  "operationId": "getSaludo",
+  "request": {
+    "method": "GET",
+    "path": "/saludo",
+    "query": {},
+    "headers": {}
+  },
+  "response": {
+    "status": 405,
+    "body": {
+      "error": {
+        "code": "METODO_NO_PERMITIDO",
+        "message": "Método no permitido"
+      }
+    }
+  }
+}

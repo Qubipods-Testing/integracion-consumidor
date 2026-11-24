@@ -1,0 +1,17 @@
+{
+  "operationId": "getSaludo",
+  "request": {
+    "method": "GET",
+    "path": "/saludo",
+    "query": {
+      "nombre": "Ana"
+    },
+    "headers": {}
+  },
+  "response": {
+    "status": 200,
+    "body": {
+      "saludo": "Hola, Ana."
+    }
+  }
+}
