@@ -1,0 +1,4 @@
+{
+  "traditionalHours": 6,
+  "basis": "1 módulo cliente fetch (~1-1.5h), 1 archivo de pruebas node:test contra el mock del contrato con 2 casos incluyendo manejo de errores (~2-3h), package.json y verificación NFR-01 (~0.5h), más revisión/ajustes (~1-1.5h); un solo PR sin UI."
+}
